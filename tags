@@ -1,0 +1,356 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Adb	uiautomator.py	/^class Adb(object):$/;"	c
+AutomatorDevice	uiautomator.py	/^class AutomatorDevice(object):$/;"	c
+AutomatorDeviceNamedUiObject	uiautomator.py	/^class AutomatorDeviceNamedUiObject(AutomatorDeviceUiObject):$/;"	c
+AutomatorDeviceObject	uiautomator.py	/^class AutomatorDeviceObject(AutomatorDeviceUiObject):$/;"	c
+AutomatorDeviceUiObject	uiautomator.py	/^class AutomatorDeviceUiObject(object):$/;"	c
+AutomatorServer	uiautomator.py	/^class AutomatorServer(object):$/;"	c
+Device	uiautomator.py	/^Device = AutomatorDevice$/;"	v
+Iter	uiautomator.py	/^        class Iter(object):$/;"	c	function:AutomatorDeviceObject.__iter__
+JsonRPCClient	uiautomator.py	/^class JsonRPCClient(object):$/;"	c
+JsonRPCError	uiautomator.py	/^class JsonRPCError(Exception):$/;"	c
+JsonRPCMethod	uiautomator.py	/^class JsonRPCMethod(object):$/;"	c
+Selector	uiautomator.py	/^class Selector(dict):$/;"	c
+TestAdb	test/test_adb.py	/^class TestAdb(unittest.TestCase):$/;"	c
+TestAutomatorDeviceNamedUiObject	test/test_device_obj.py	/^class TestAutomatorDeviceNamedUiObject(unittest.TestCase):$/;"	c
+TestAutomatorServer	test/test_server.py	/^class TestAutomatorServer(unittest.TestCase):$/;"	c
+TestAutomatorServer_Stop	test/test_server.py	/^class TestAutomatorServer_Stop(unittest.TestCase):$/;"	c
+TestDevice	test/test_device.py	/^class TestDevice(unittest.TestCase):$/;"	c
+TestDeviceObj	test/test_device_obj.py	/^class TestDeviceObj(unittest.TestCase):$/;"	c
+TestDeviceObjInit	test/test_device_obj.py	/^class TestDeviceObjInit(unittest.TestCase):$/;"	c
+TestDeviceWithSerial	test/test_device.py	/^class TestDeviceWithSerial(unittest.TestCase):$/;"	c
+TestJsonRPCClient	test/test_jsonrpc.py	/^class TestJsonRPCClient(unittest.TestCase):$/;"	c
+TestJsonRPCError	test/test_server.py	/^class TestJsonRPCError(unittest.TestCase):$/;"	c
+TestJsonRPCMethod_call	test/test_jsonrpc.py	/^class TestJsonRPCMethod_call(unittest.TestCase):$/;"	c
+TestJsonRPCMethod_call_on_windows	test/test_jsonrpc.py	/^class TestJsonRPCMethod_call_on_windows(unittest.TestCase):$/;"	c
+TestJsonRPCMethod_id	test/test_jsonrpc.py	/^class TestJsonRPCMethod_id(unittest.TestCase):$/;"	c
+TestMisc	test/test_misc.py	/^class TestMisc(unittest.TestCase):$/;"	c
+TestParamToProperty	test/test_param_to_property.py	/^class TestParamToProperty(unittest.TestCase):$/;"	c
+TestSelector	test/test_selector.py	/^class TestSelector(unittest.TestCase):$/;"	c
+Watcher	uiautomator.py	/^        class Watcher(object):$/;"	c	function:AutomatorDevice.watcher
+Watchers	uiautomator.py	/^        class Watchers(list):$/;"	c	function:AutomatorDevice.watchers
+Wrapper	uiautomator.py	/^    class Wrapper(object):$/;"	c	function:param_to_property
+_JsonRPCMethod	uiautomator.py	/^        def _JsonRPCMethod(url, method, timeout):$/;"	f	function:AutomatorServer.jsonrpc
+__alias	uiautomator.py	/^    __alias = {$/;"	v	class:AutomatorDevice
+__alias	uiautomator.py	/^    __alias = {'description': "contentDescription"}$/;"	v	class:AutomatorDeviceUiObject
+__all__	uiautomator.py	/^__all__ = ["device", "Device", "rect", "point", "Selector", "JsonRPCError"]$/;"	v
+__author__	uiautomator.py	/^__author__ = "Xiaocong He"$/;"	v
+__call__	uiautomator.py	/^        def __call__(self, *args, **kwargs):$/;"	m	class:param_to_property.Wrapper	file:
+__call__	uiautomator.py	/^    def __call__(self, **kwargs):$/;"	m	class:AutomatorDevice	file:
+__call__	uiautomator.py	/^    def __call__(self, *args, **kwargs):$/;"	m	class:JsonRPCMethod	file:
+__delitem__	uiautomator.py	/^    def __delitem__(self, k):$/;"	m	class:Selector	file:
+__fields	uiautomator.py	/^    __fields = {$/;"	v	class:Selector
+__getattr__	uiautomator.py	/^        def __getattr__(self, attr):$/;"	m	class:param_to_property.Wrapper	file:
+__getattr__	uiautomator.py	/^    def __getattr__(self, attr):$/;"	m	class:AutomatorDevice	file:
+__getattr__	uiautomator.py	/^    def __getattr__(self, attr):$/;"	m	class:AutomatorDeviceUiObject	file:
+__getattr__	uiautomator.py	/^    def __getattr__(self, method):$/;"	m	class:JsonRPCClient	file:
+__getitem__	uiautomator.py	/^    def __getitem__(self, index):$/;"	m	class:AutomatorDeviceObject	file:
+__init__	uiautomator.py	/^            def __init__(self):$/;"	m	class:AutomatorDevice.watcher.Watcher
+__init__	uiautomator.py	/^            def __init__(self):$/;"	m	class:AutomatorDevice.watchers.Watchers
+__init__	uiautomator.py	/^            def __init__(self):$/;"	m	class:AutomatorDeviceObject.__iter__.Iter
+__init__	uiautomator.py	/^        def __init__(self, func):$/;"	m	class:param_to_property.Wrapper
+__init__	uiautomator.py	/^    def __init__(self, **kwargs):$/;"	m	class:Selector
+__init__	uiautomator.py	/^    def __init__(self, code, message):$/;"	m	class:JsonRPCError
+__init__	uiautomator.py	/^    def __init__(self, device, name):$/;"	m	class:AutomatorDeviceNamedUiObject
+__init__	uiautomator.py	/^    def __init__(self, device, selector):$/;"	m	class:AutomatorDeviceObject
+__init__	uiautomator.py	/^    def __init__(self, device, selector):$/;"	m	class:AutomatorDeviceUiObject
+__init__	uiautomator.py	/^    def __init__(self, serial=None):$/;"	m	class:Adb
+__init__	uiautomator.py	/^    def __init__(self, serial=None, local_port=None):$/;"	m	class:AutomatorDevice
+__init__	uiautomator.py	/^    def __init__(self, serial=None, local_port=None):$/;"	m	class:AutomatorServer
+__init__	uiautomator.py	/^    def __init__(self, url, method, timeout=30):$/;"	m	class:JsonRPCMethod
+__init__	uiautomator.py	/^    def __init__(self, url, timeout=30, method_class=JsonRPCMethod):$/;"	m	class:JsonRPCClient
+__iter__	uiautomator.py	/^    def __iter__(self):$/;"	m	class:AutomatorDeviceObject	file:
+__jar_files	uiautomator.py	/^    __jar_files = {$/;"	v	class:AutomatorServer
+__jsonrpc	uiautomator.py	/^    def __jsonrpc(self):$/;"	m	class:AutomatorServer	file:
+__len__	uiautomator.py	/^    def __len__(self):$/;"	m	class:AutomatorDeviceObject	file:
+__next__	uiautomator.py	/^            __next__ = next$/;"	v	class:AutomatorDeviceObject.__iter__.Iter
+__orientation	uiautomator.py	/^    __orientation = (  # device orientation$/;"	v	class:AutomatorDevice
+__scroll	uiautomator.py	/^        def __scroll(vertical, forward, steps=100):$/;"	f	function:AutomatorDeviceObject.scroll	file:
+__scroll_to	uiautomator.py	/^        def __scroll_to(vertical, **kwargs):$/;"	f	function:AutomatorDeviceObject.scroll	file:
+__scroll_to_beginning	uiautomator.py	/^        def __scroll_to_beginning(vertical, steps=100, max_swipes=1000):$/;"	f	function:AutomatorDeviceObject.scroll	file:
+__scroll_to_end	uiautomator.py	/^        def __scroll_to_end(vertical, steps=100, max_swipes=1000):$/;"	f	function:AutomatorDeviceObject.scroll	file:
+__setitem__	uiautomator.py	/^    def __setitem__(self, k, v):$/;"	m	class:Selector	file:
+__str__	uiautomator.py	/^    def __str__(self):$/;"	m	class:JsonRPCError	file:
+__version__	uiautomator.py	/^__version__ = "0.1.28"$/;"	v
+__view_beside	uiautomator.py	/^    def __view_beside(self, onsideof, **kwargs):$/;"	m	class:AutomatorDeviceObject	file:
+_click	uiautomator.py	/^        def _click(action=None, timeout=3000):$/;"	f	function:AutomatorDeviceUiObject.click
+_fling	uiautomator.py	/^        def _fling(dimention="vert", action="forward", max_swipes=1000):$/;"	f	function:AutomatorDeviceObject.fling
+_init_local_port	uiautomator.py	/^_init_local_port = 9007$/;"	v
+_long_click	uiautomator.py	/^        def _long_click(corner=None):$/;"	f	function:AutomatorDeviceUiObject.long_click
+_open	uiautomator.py	/^        def _open(action):$/;"	f	function:AutomatorDevice.open
+_pinch	uiautomator.py	/^        def _pinch(in_or_out="Out", percent=100, steps=50):$/;"	f	function:AutomatorDeviceUiObject.pinch
+_press	uiautomator.py	/^                def _press(*args):$/;"	f	function:AutomatorDevice.watcher.Watcher.press
+_press	uiautomator.py	/^        def _press(key, meta=None):$/;"	f	function:AutomatorDevice.press
+_screen	uiautomator.py	/^        def _screen(action):$/;"	f	function:AutomatorDevice.screen
+_scroll	uiautomator.py	/^        def _scroll(dimention="vert", action="forward", **kwargs):$/;"	f	function:AutomatorDeviceObject.scroll
+_swipe	uiautomator.py	/^        def _swipe(direction="left", steps=10):$/;"	f	function:AutomatorDeviceUiObject.swipe
+_wait	uiautomator.py	/^        def _wait(action, timeout=1000, package_name=None):$/;"	f	function:AutomatorDevice.wait
+_wait	uiautomator.py	/^        def _wait(action, timeout=3000):$/;"	f	function:AutomatorDeviceUiObject.wait
+above	uiautomator.py	/^        def above(rect1, rect2):$/;"	f	function:AutomatorDeviceObject.up
+adb	uiautomator.py	/^    def adb(self):$/;"	m	class:Adb
+alive	uiautomator.py	/^    def alive(self):$/;"	m	class:AutomatorServer
+author	setup.py	/^    author=uiautomator.__author__,$/;"	v
+author_email	setup.py	/^    author_email='xiaocong@gmail.com',$/;"	v
+child	uiautomator.py	/^    def child(self, **kwargs):$/;"	m	class:AutomatorDeviceNamedUiObject
+child	uiautomator.py	/^    def child(self, **kwargs):$/;"	m	class:AutomatorDeviceObject
+child	uiautomator.py	/^    def child(self, **kwargs):$/;"	m	class:Selector
+child_by_description	uiautomator.py	/^    def child_by_description(self, txt, **kwargs):$/;"	m	class:AutomatorDeviceObject
+child_by_instance	uiautomator.py	/^    def child_by_instance(self, inst, **kwargs):$/;"	m	class:AutomatorDeviceObject
+child_by_text	uiautomator.py	/^    def child_by_text(self, txt, **kwargs):$/;"	m	class:AutomatorDeviceObject
+classifiers	setup.py	/^    classifiers=($/;"	v
+clear_text	uiautomator.py	/^    def clear_text(self):$/;"	m	class:AutomatorDeviceUiObject
+clear_traversed_text	uiautomator.py	/^    def clear_traversed_text(self):$/;"	m	class:AutomatorDevice
+click	uiautomator.py	/^            def click(self, **kwargs):$/;"	m	class:AutomatorDevice.watcher.Watcher
+click	uiautomator.py	/^    def click(self):$/;"	m	class:AutomatorDeviceUiObject
+click	uiautomator.py	/^    def click(self, x, y):$/;"	m	class:AutomatorDevice
+clone	uiautomator.py	/^    def clone(self):$/;"	m	class:Selector
+cmd	uiautomator.py	/^    def cmd(self, *args):$/;"	m	class:Adb
+count	uiautomator.py	/^    def count(self):$/;"	m	class:AutomatorDeviceObject
+d	testcase/tmp.py	/^d = Device("860424734447f8e0109")$/;"	v
+description	setup.py	/^    description='Python Wrapper for Android UiAutomator test tool',$/;"	v
+device	uiautomator.py	/^device = AutomatorDevice()$/;"	v
+device_serial	uiautomator.py	/^    def device_serial(self):$/;"	m	class:Adb
+devices	uiautomator.py	/^    def devices(self):$/;"	m	class:Adb
+down	uiautomator.py	/^    def down(self, **kwargs):$/;"	m	class:AutomatorDeviceObject
+download	uiautomator.py	/^    def download(self, filename, url):$/;"	m	class:AutomatorServer
+download_and_push	uiautomator.py	/^    def download_and_push(self):$/;"	m	class:AutomatorServer
+drag	uiautomator.py	/^    def drag(self):$/;"	m	class:AutomatorDeviceUiObject
+drag	uiautomator.py	/^    def drag(self, sx, sy, ex, ey, steps=100):$/;"	m	class:AutomatorDevice
+dump	uiautomator.py	/^    def dump(self, filename=None):$/;"	m	class:AutomatorDevice
+exists	uiautomator.py	/^    def exists(self):$/;"	m	class:AutomatorDeviceUiObject
+exists	uiautomator.py	/^    def exists(self, **kwargs):$/;"	m	class:AutomatorDevice
+exit	uiautomator.py	/^            def exit(self, exitcode):$/;"	m	class:AutomatorDevice.watcher.Watcher
+fields	test/test_selector.py	/^    fields = {$/;"	v	class:TestSelector
+fling	uiautomator.py	/^    def fling(self):$/;"	m	class:AutomatorDeviceObject
+forward	uiautomator.py	/^    def forward(self, local_port, device_port):$/;"	m	class:Adb
+forward_list	uiautomator.py	/^    def forward_list(self):$/;"	m	class:Adb
+freeze_rotation	uiautomator.py	/^    def freeze_rotation(self, freeze=True):$/;"	m	class:AutomatorDevice
+func	test/test_param_to_property.py	/^            def func(*args, **kwargs):$/;"	f	function:TestParamToProperty.test_error.func
+func	test/test_param_to_property.py	/^        def func(*args, **kwargs):$/;"	f	function:TestParamToProperty.test_error
+func	test/test_param_to_property.py	/^        def func(*args, **kwargs):$/;"	f	function:TestParamToProperty.test_kwprops
+func	test/test_param_to_property.py	/^        def func(*args, **kwargs):$/;"	f	function:TestParamToProperty.test_props
+gesture	uiautomator.py	/^    def gesture(self, start1, start2, *args, **kwargs):$/;"	m	class:AutomatorDeviceUiObject
+goToCtlButton	testcase/video/video.py	/^def goToCtlButton(d):$/;"	f
+id	uiautomator.py	/^    def id(self):$/;"	m	class:JsonRPCMethod
+info	uiautomator.py	/^    def info(self):$/;"	m	class:AutomatorDevice
+info	uiautomator.py	/^    def info(self):$/;"	m	class:AutomatorDeviceUiObject
+install_requires	setup.py	/^    install_requires=requires,$/;"	v
+intersect	uiautomator.py	/^def intersect(rect1, rect2):$/;"	f
+is_port_listening	uiautomator.py	/^    def is_port_listening(port):$/;"	f	function:next_local_port
+jsonrpc	uiautomator.py	/^    def jsonrpc(self):$/;"	m	class:AutomatorServer
+last_traversed_text	uiautomator.py	/^    def last_traversed_text(self):$/;"	m	class:AutomatorDevice
+left	uiautomator.py	/^    def left(self, **kwargs):$/;"	m	class:AutomatorDeviceObject
+license	setup.py	/^    license='MIT',$/;"	v
+long_click	uiautomator.py	/^    def long_click(self):$/;"	m	class:AutomatorDeviceUiObject
+long_description	setup.py	/^    long_description=uiautomator.__doc__,$/;"	v
+main	testcase/browser/browser_.py	/^def main():$/;"	f
+main	testcase/camera/camera_back_pic_video_switch.py	/^def main():$/;"	f
+main	testcase/camera/camera_back_take_pic.py	/^def main():$/;"	f
+main	testcase/camera/camera_back_video.py	/^def main():$/;"	f
+main	testcase/camera/camera_front_back_switch_take_pic.py	/^def main():$/;"	f
+main	testcase/camera/camera_front_back_switch_video.py	/^def main():$/;"	f
+main	testcase/camera/camera_front_pic_video_switch.py	/^def main():$/;"	f
+main	testcase/paofen/3dmark.py	/^def main():$/;"	f
+main	testcase/paofen/antutu.py	/^def main():$/;"	f
+main	testcase/paofen/taiji.py	/^def main():$/;"	f
+main	testcase/paofen/tmp.py	/^def main():$/;"	f
+main	testcase/recovery.py	/^def main():$/;"	f
+main	testcase/video/music.py	/^def main():$/;"	f
+main	testcase/video/video.py	/^def main():$/;"	f
+mask	test/test_selector.py	/^    mask = "mask"$/;"	v	class:TestSelector
+name	setup.py	/^    name='uiautomator',$/;"	v
+next	uiautomator.py	/^            def next(self):$/;"	m	class:AutomatorDeviceObject.__iter__.Iter
+next_local_port	uiautomator.py	/^def next_local_port():$/;"	f
+onleftof	uiautomator.py	/^        def onleftof(rect1, rect2):$/;"	f	function:AutomatorDeviceObject.left
+onrightof	uiautomator.py	/^        def onrightof(rect1, rect2):$/;"	f	function:AutomatorDeviceObject.right
+open	uiautomator.py	/^    def open(self):$/;"	m	class:AutomatorDevice
+orientation	uiautomator.py	/^    def orientation(self):$/;"	m	class:AutomatorDevice
+orientation	uiautomator.py	/^    def orientation(self, value):$/;"	m	class:AutomatorDevice
+param_to_property	uiautomator.py	/^def param_to_property(*props, **kwprops):$/;"	f
+pinch	uiautomator.py	/^    def pinch(self):$/;"	m	class:AutomatorDeviceUiObject
+ping	uiautomator.py	/^    def ping(self):$/;"	m	class:AutomatorServer
+platforms	setup.py	/^    platforms='any',$/;"	v
+point	uiautomator.py	/^def point(x=0, y=0):$/;"	f
+pool	uiautomator.py	/^        pool = urllib3.PoolManager()$/;"	v	class:JsonRPCMethod
+press	uiautomator.py	/^            def press(self):$/;"	m	class:AutomatorDevice.watcher.Watcher
+press	uiautomator.py	/^    def press(self):$/;"	m	class:AutomatorDevice
+py_modules	setup.py	/^    py_modules=['uiautomator'],$/;"	v
+raw_cmd	uiautomator.py	/^    def raw_cmd(self, *args):$/;"	m	class:Adb
+rect	uiautomator.py	/^def rect(top=0, left=0, bottom=100, right=100):$/;"	f
+remove	uiautomator.py	/^            def remove(self):$/;"	m	class:AutomatorDevice.watcher.Watcher
+remove	uiautomator.py	/^            def remove(self, name=None):$/;"	m	class:AutomatorDevice.watchers.Watchers
+removeRecentList	testcase/paofen/3dmark.py	/^def removeRecentList(d, app_desc):$/;"	f
+removeRecentList	testcase/paofen/antutu.py	/^def removeRecentList(d, app_desc):$/;"	f
+removeRecentList	testcase/paofen/taiji.py	/^def removeRecentList(d, app_desc):$/;"	f
+removeRecentList	testcase/paofen/tmp.py	/^def removeRecentList(d, app_desc):$/;"	f
+removeRecentList	testcase/video/music.py	/^def removeRecentList(d, app_desc):$/;"	f
+removeRecentList	testcase/video/video.py	/^def removeRecentList(d, app_desc):$/;"	f
+requires	setup.py	/^requires = [$/;"	v
+reset	uiautomator.py	/^            def reset(self):$/;"	m	class:AutomatorDevice.watchers.Watchers
+right	uiautomator.py	/^    def right(self, **kwargs):$/;"	m	class:AutomatorDeviceObject
+rpc_uri	uiautomator.py	/^    def rpc_uri(self):$/;"	m	class:AutomatorServer
+run	uiautomator.py	/^            def run(self):$/;"	m	class:AutomatorDevice.watchers.Watchers
+runtest	testcase/browser/browser_.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/camera/camera_back_pic_video_switch.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/camera/camera_back_take_pic.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/camera/camera_back_video.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/camera/camera_front_back_switch_take_pic.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/camera/camera_front_back_switch_video.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/camera/camera_front_pic_video_switch.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/paofen/3dmark.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/paofen/antutu.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/paofen/taiji.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/paofen/tmp.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/recovery.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/video/music.py	/^def runtest(serialno, loop):$/;"	f
+runtest	testcase/video/video.py	/^def runtest(serialno, loop):$/;"	f
+screen	uiautomator.py	/^    def screen(self):$/;"	m	class:AutomatorDevice
+screenshot	uiautomator.py	/^    def screenshot(self, filename, scale=1.0, quality=100):$/;"	m	class:AutomatorDevice
+scripts	setup.py	/^    scripts=['uiautomator.py'],$/;"	v
+scroll	uiautomator.py	/^    def scroll(self):$/;"	m	class:AutomatorDeviceObject
+setUp	test/test_adb.py	/^    def setUp(self):$/;"	m	class:TestAdb
+setUp	test/test_device.py	/^    def setUp(self):$/;"	m	class:TestDevice
+setUp	test/test_device_obj.py	/^    def setUp(self):$/;"	m	class:TestAutomatorDeviceNamedUiObject
+setUp	test/test_device_obj.py	/^    def setUp(self):$/;"	m	class:TestDeviceObj
+setUp	test/test_device_obj.py	/^    def setUp(self):$/;"	m	class:TestDeviceObjInit
+setUp	test/test_jsonrpc.py	/^    def setUp(self):$/;"	m	class:TestJsonRPCClient
+setUp	test/test_jsonrpc.py	/^    def setUp(self):$/;"	m	class:TestJsonRPCMethod_call
+setUp	test/test_jsonrpc.py	/^    def setUp(self):$/;"	m	class:TestJsonRPCMethod_call_on_windows
+setUp	test/test_server.py	/^    def setUp(self):$/;"	m	class:TestAutomatorServer
+setUp	test/test_server.py	/^    def setUp(self):$/;"	m	class:TestAutomatorServer_Stop
+set_text	uiautomator.py	/^    def set_text(self, text):$/;"	m	class:AutomatorDeviceUiObject
+sibling	uiautomator.py	/^    def sibling(self, **kwargs):$/;"	m	class:AutomatorDeviceNamedUiObject
+sibling	uiautomator.py	/^    def sibling(self, **kwargs):$/;"	m	class:AutomatorDeviceObject
+sibling	uiautomator.py	/^    def sibling(self, **kwargs):$/;"	m	class:Selector
+side_effect	test/test_server.py	/^            def side_effect():$/;"	f	function:TestAutomatorServer.test_auto_start
+sleep	uiautomator.py	/^    def sleep(self):$/;"	m	class:AutomatorDevice
+start	uiautomator.py	/^    def start(self):$/;"	m	class:AutomatorServer
+stop	uiautomator.py	/^    def stop(self):$/;"	m	class:AutomatorServer
+stop_uri	uiautomator.py	/^    def stop_uri(self):$/;"	m	class:AutomatorServer
+swipe	uiautomator.py	/^    def swipe(self):$/;"	m	class:AutomatorDeviceUiObject
+swipe	uiautomator.py	/^    def swipe(self, sx, sy, ex, ey, steps=100):$/;"	m	class:AutomatorDevice
+tearDown	test/test_adb.py	/^    def tearDown(self):$/;"	m	class:TestAdb
+tearDown	test/test_jsonrpc.py	/^    def tearDown(self):$/;"	m	class:TestJsonRPCMethod_call
+tearDown	test/test_jsonrpc.py	/^    def tearDown(self):$/;"	m	class:TestJsonRPCMethod_call_on_windows
+tearDown	test/test_server.py	/^    def tearDown(self):$/;"	m	class:TestAutomatorServer
+tearDown	test/test_server.py	/^    def tearDown(self):$/;"	m	class:TestAutomatorServer_Stop
+testJsonRPCError	test/test_server.py	/^    def testJsonRPCError(self):$/;"	m	class:TestJsonRPCError
+test_adb_cmd	test/test_adb.py	/^    def test_adb_cmd(self):$/;"	m	class:TestAdb
+test_adb_from_env	test/test_adb.py	/^    def test_adb_from_env(self):$/;"	m	class:TestAdb
+test_adb_from_find	test/test_adb.py	/^    def test_adb_from_find(self):$/;"	m	class:TestAdb
+test_adb_raw_cmd	test/test_adb.py	/^    def test_adb_raw_cmd(self):$/;"	m	class:TestAdb
+test_add	test/test_selector.py	/^    def test_add(self):$/;"	m	class:TestSelector
+test_auto_start	test/test_server.py	/^    def test_auto_start(self):$/;"	m	class:TestAutomatorServer
+test_child	test/test_device_obj.py	/^    def test_child(self):$/;"	m	class:TestAutomatorDeviceNamedUiObject
+test_child_and_sibling	test/test_selector.py	/^    def test_child_and_sibling(self):$/;"	m	class:TestSelector
+test_child_by_description	test/test_device_obj.py	/^    def test_child_by_description(self):$/;"	m	class:TestDeviceObj
+test_child_by_description_allow_scroll_search	test/test_device_obj.py	/^    def test_child_by_description_allow_scroll_search(self):$/;"	m	class:TestDeviceObj
+test_child_by_instance	test/test_device_obj.py	/^    def test_child_by_instance(self):$/;"	m	class:TestDeviceObj
+test_child_by_text	test/test_device_obj.py	/^    def test_child_by_text(self):$/;"	m	class:TestDeviceObj
+test_child_by_text_allow_scroll_search	test/test_device_obj.py	/^    def test_child_by_text_allow_scroll_search(self):$/;"	m	class:TestDeviceObj
+test_child_selector	test/test_device_obj.py	/^    def test_child_selector(self):$/;"	m	class:TestDeviceObj
+test_clear_traversed_text	test/test_device.py	/^    def test_clear_traversed_text(self):$/;"	m	class:TestDevice
+test_click	test/test_device.py	/^    def test_click(self):$/;"	m	class:TestDevice
+test_click	test/test_device_obj.py	/^    def test_click(self):$/;"	m	class:TestDeviceObj
+test_click_wait	test/test_device_obj.py	/^    def test_click_wait(self):$/;"	m	class:TestDeviceObj
+test_clone	test/test_selector.py	/^    def test_clone(self):$/;"	m	class:TestSelector
+test_count	test/test_device_obj.py	/^    def test_count(self):$/;"	m	class:TestDeviceObj
+test_delete	test/test_selector.py	/^    def test_delete(self):$/;"	m	class:TestSelector
+test_device_obj	test/test_device.py	/^    def test_device_obj(self):$/;"	m	class:TestDevice
+test_device_port	test/test_server.py	/^    def test_device_port(self):$/;"	m	class:TestAutomatorServer
+test_device_serial	test/test_adb.py	/^    def test_device_serial(self):$/;"	m	class:TestAdb
+test_devices	test/test_adb.py	/^    def test_devices(self):$/;"	m	class:TestAdb
+test_down	test/test_device_obj.py	/^    def test_down(self):$/;"	m	class:TestDeviceObj
+test_download_and_push	test/test_server.py	/^    def test_download_and_push(self):$/;"	m	class:TestAutomatorServer_Stop
+test_download_and_push_download	test/test_server.py	/^    def test_download_and_push_download(self):$/;"	m	class:TestAutomatorServer_Stop
+test_drag	test/test_device.py	/^    def test_drag(self):$/;"	m	class:TestDevice
+test_drag_to	test/test_device_obj.py	/^    def test_drag_to(self):$/;"	m	class:TestDeviceObj
+test_dump	test/test_device.py	/^    def test_dump(self):$/;"	m	class:TestDevice
+test_error	test/test_param_to_property.py	/^    def test_error(self):$/;"	m	class:TestParamToProperty
+test_error	test/test_selector.py	/^    def test_error(self):$/;"	m	class:TestSelector
+test_exists	test/test_device_obj.py	/^    def test_exists(self):$/;"	m	class:TestDeviceObj
+test_fling	test/test_device_obj.py	/^    def test_fling(self):$/;"	m	class:TestDeviceObj
+test_forward	test/test_adb.py	/^    def test_forward(self):$/;"	m	class:TestAdb
+test_forward_list	test/test_adb.py	/^    def test_forward_list(self):$/;"	m	class:TestAdb
+test_freeze_rotation	test/test_device.py	/^    def test_freeze_rotation(self):$/;"	m	class:TestDevice
+test_from_parent	test/test_device_obj.py	/^    def test_from_parent(self):$/;"	m	class:TestDeviceObj
+test_gesture	test/test_device_obj.py	/^    def test_gesture(self):$/;"	m	class:TestDeviceObj
+test_get_info_attr	test/test_device.py	/^    def test_get_info_attr(self):$/;"	m	class:TestDevice
+test_id	test/test_jsonrpc.py	/^    def test_id(self):$/;"	m	class:TestJsonRPCMethod_id
+test_info	test/test_device.py	/^    def test_info(self):$/;"	m	class:TestDevice
+test_info	test/test_device_obj.py	/^    def test_info(self):$/;"	m	class:TestDeviceObj
+test_info_attr	test/test_device_obj.py	/^    def test_info_attr(self):$/;"	m	class:TestDeviceObj
+test_init	test/test_device_obj.py	/^    def test_init(self):$/;"	m	class:TestDeviceObjInit
+test_init	test/test_selector.py	/^    def test_init(self):$/;"	m	class:TestSelector
+test_instance_iter	test/test_device_obj.py	/^    def test_instance_iter(self):$/;"	m	class:TestDeviceObj
+test_instance_list	test/test_device_obj.py	/^    def test_instance_list(self):$/;"	m	class:TestDeviceObj
+test_jsonrpc	test/test_jsonrpc.py	/^    def test_jsonrpc(self):$/;"	m	class:TestJsonRPCClient
+test_kwprops	test/test_param_to_property.py	/^    def test_kwprops(self):$/;"	m	class:TestParamToProperty
+test_last_traversed_text	test/test_device.py	/^    def test_last_traversed_text(self):$/;"	m	class:TestDevice
+test_left	test/test_device_obj.py	/^    def test_left(self):$/;"	m	class:TestDeviceObj
+test_len	test/test_device_obj.py	/^    def test_len(self):$/;"	m	class:TestDeviceObj
+test_load	test/test_misc.py	/^    def test_load(self):$/;"	m	class:TestMisc
+test_local_port	test/test_server.py	/^    def test_local_port(self):$/;"	m	class:TestAutomatorServer
+test_local_port_forwarded	test/test_server.py	/^    def test_local_port_forwarded(self):$/;"	m	class:TestAutomatorServer
+test_local_port_scanning	test/test_server.py	/^    def test_local_port_scanning(self):$/;"	m	class:TestAutomatorServer
+test_long_click	test/test_device_obj.py	/^    def test_long_click(self):$/;"	m	class:TestDeviceObj
+test_multiple_matched_down	test/test_device_obj.py	/^    def test_multiple_matched_down(self):$/;"	m	class:TestDeviceObj
+test_next_port	test/test_misc.py	/^    def test_next_port(self):$/;"	m	class:TestMisc
+test_normal_call	test/test_jsonrpc.py	/^    def test_normal_call(self):$/;"	m	class:TestJsonRPCMethod_call
+test_normal_call	test/test_jsonrpc.py	/^    def test_normal_call(self):$/;"	m	class:TestJsonRPCMethod_call_on_windows
+test_normal_call_error	test/test_jsonrpc.py	/^    def test_normal_call_error(self):$/;"	m	class:TestJsonRPCMethod_call
+test_normal_call_error	test/test_jsonrpc.py	/^    def test_normal_call_error(self):$/;"	m	class:TestJsonRPCMethod_call_on_windows
+test_open	test/test_device.py	/^    def test_open(self):$/;"	m	class:TestDevice
+test_orientation	test/test_device.py	/^    def test_orientation(self):$/;"	m	class:TestDevice
+test_pinch	test/test_device_obj.py	/^    def test_pinch(self):$/;"	m	class:TestDeviceObj
+test_point	test/test_misc.py	/^    def test_point(self):$/;"	m	class:TestMisc
+test_press	test/test_device.py	/^    def test_press(self):$/;"	m	class:TestDevice
+test_props	test/test_param_to_property.py	/^    def test_props(self):$/;"	m	class:TestParamToProperty
+test_rect	test/test_misc.py	/^    def test_rect(self):$/;"	m	class:TestMisc
+test_requires	setup.py	/^test_requires = [$/;"	v
+test_right	test/test_device_obj.py	/^    def test_right(self):$/;"	m	class:TestDeviceObj
+test_screenshot	test/test_device.py	/^    def test_screenshot(self):$/;"	m	class:TestDevice
+test_scroll	test/test_device_obj.py	/^    def test_scroll(self):$/;"	m	class:TestDeviceObj
+test_serial	test/test_adb.py	/^    def test_serial(self):$/;"	m	class:TestAdb
+test_serial	test/test_device.py	/^    def test_serial(self):$/;"	m	class:TestDeviceWithSerial
+test_sibling	test/test_device_obj.py	/^    def test_sibling(self):$/;"	m	class:TestAutomatorDeviceNamedUiObject
+test_sleep	test/test_device.py	/^    def test_sleep(self):$/;"	m	class:TestDevice
+test_start_error	test/test_server.py	/^    def test_start_error(self):$/;"	m	class:TestAutomatorServer
+test_start_ping	test/test_server.py	/^    def test_start_ping(self):$/;"	m	class:TestAutomatorServer
+test_start_ping_none	test/test_server.py	/^    def test_start_ping_none(self):$/;"	m	class:TestAutomatorServer
+test_start_success	test/test_server.py	/^    def test_start_success(self):$/;"	m	class:TestAutomatorServer
+test_stop	test/test_server.py	/^    def test_stop(self):$/;"	m	class:TestAutomatorServer_Stop
+test_stop_started_server	test/test_server.py	/^    def test_stop_started_server(self):$/;"	m	class:TestAutomatorServer_Stop
+test_suite	setup.py	/^    test_suite="nose.collector",$/;"	v
+test_swipe	test/test_device.py	/^    def test_swipe(self):$/;"	m	class:TestDevice
+test_swipe	test/test_device_obj.py	/^    def test_swipe(self):$/;"	m	class:TestDeviceObj
+test_text	test/test_device_obj.py	/^    def test_text(self):$/;"	m	class:TestDeviceObj
+test_up	test/test_device_obj.py	/^    def test_up(self):$/;"	m	class:TestDeviceObj
+test_wait	test/test_device_obj.py	/^    def test_wait(self):$/;"	m	class:TestDeviceObj
+test_wait_idle	test/test_device.py	/^    def test_wait_idle(self):$/;"	m	class:TestDevice
+test_wait_update	test/test_device.py	/^    def test_wait_update(self):$/;"	m	class:TestDevice
+test_wakeup	test/test_device.py	/^    def test_wakeup(self):$/;"	m	class:TestDevice
+test_watcher	test/test_device.py	/^    def test_watcher(self):$/;"	m	class:TestDevice
+test_watchers	test/test_device.py	/^    def test_watchers(self):$/;"	m	class:TestDevice
+tests_require	setup.py	/^    tests_require=test_requires,$/;"	v
+to	uiautomator.py	/^        def to(obj, *args, **kwargs):$/;"	f	function:AutomatorDeviceUiObject.drag
+to	uiautomator.py	/^        def to(obj_self, end1, end2, steps=100):$/;"	f	function:AutomatorDeviceUiObject.gesture
+triggered	uiautomator.py	/^            def triggered(self):$/;"	m	class:AutomatorDevice.watcher.Watcher
+triggered	uiautomator.py	/^            def triggered(self):$/;"	m	class:AutomatorDevice.watchers.Watchers
+under	uiautomator.py	/^        def under(rect1, rect2):$/;"	f	function:AutomatorDeviceObject.down
+up	uiautomator.py	/^    def up(self, **kwargs):$/;"	m	class:AutomatorDeviceObject
+url	setup.py	/^    url='https:\/\/github.com\/xiaocong\/uiautomator',$/;"	v
+version	setup.py	/^    version=uiautomator.__version__,$/;"	v
+version	uiautomator.py	/^    def version(self):$/;"	m	class:Adb
+wait	uiautomator.py	/^    def wait(self):$/;"	m	class:AutomatorDevice
+wait	uiautomator.py	/^    def wait(self):$/;"	m	class:AutomatorDeviceUiObject
+wakeup	uiautomator.py	/^    def wakeup(self):$/;"	m	class:AutomatorDevice
+watcher	uiautomator.py	/^    def watcher(self, name):$/;"	m	class:AutomatorDevice
+watchers	uiautomator.py	/^    def watchers(self):$/;"	m	class:AutomatorDevice
+when	uiautomator.py	/^            def when(self, **kwargs):$/;"	m	class:AutomatorDevice.watcher.Watcher
+wrapper	uiautomator.py	/^            def wrapper(*args, **kwargs):$/;"	f	function:AutomatorServer.jsonrpc._JsonRPCMethod
