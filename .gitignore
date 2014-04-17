@@ -10,3 +10,5 @@ uiautomator.egg-info
 *.egg
 .tox
 .coverage
+/temp
+tags
