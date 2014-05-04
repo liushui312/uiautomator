@@ -1,0 +1,23 @@
+<6>[ 8610.531225] qtaguid: ctrl_counterset(s 1 10078): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[ 8610.822397] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[ 8610.822415] start_powernow :0!
+<4>[ 8610.822425] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[ 8610.824616] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 8610.825098] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<4>[ 8612.732561] if_tag_stat_update: 144 callbacks suppressed
+<3>[ 8612.732574] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.740429] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.746801] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.753055] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.764850] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.771404] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.777718] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.784051] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.791642] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 8612.798034] qtaguid: iface_stat: stat_update() lo not found
+<6>[ 8612.992427] qtaguid: ctrl_counterset(s 0 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[ 8614.139784] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[ 8614.139800] start_powernow :1!
+<4>[ 8614.139847] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 8614.140130] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<6>[ 8615.120882] qtaguid: ctrl_counterset(s 1 10011): insufficient priv from pid=478 tgid=431 uid=1000

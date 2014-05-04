@@ -1,0 +1,21 @@
+<4>[   42.300834] CPU1: Booted secondary processor
+<5>[   54.531523] CPU1: shutdown
+<6>[   54.531552] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[   54.532584] [hotplug]: cpu1 is killed! .
+<6>[   57.740351] init: waitpid returned pid 1092, status = 00000100
+<5>[   57.740378] init: process 'dhcpcd_wlan0', pid 1092 exited
+<6>[   58.035409] cfg80211: Calling CRDA to update world regulatory domain
+<4>[   59.355437] RTL871X: rtw_set_802_11_connect(wlan0)  fw_state=0x00000008
+<4>[   59.414310] RTL871X: start auth
+<4>[   59.417435] RTL871X: auth success, start assoc
+<4>[   59.423260] RTL871X: assoc success
+<6>[   59.423549] ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+<4>[   59.449259] RTL871X: send eapol packet
+<4>[   60.422867] RTL871X: send eapol packet
+<4>[   54.540782] CPU1: Booted secondary processor
+<4>[   60.779759] RTL871X: rtw_aes_decrypt(wlan0) no_gkey_bc_cnt:9, no_gkey_mc_cnt:0
+<4>[   61.423170] RTL871X: send eapol packet
+<4>[   61.811936] RTL871X: rtw_aes_decrypt(wlan0) no_gkey_bc_cnt:12, no_gkey_mc_cnt:0
+<4>[   62.429613] RTL871X: send eapol packet
+<4>[   62.429802] RTL871X: sta recv deauth reason code(2) sta:a4:93:4c:b1:4a:5f, ignore = 0
+<6>[   62.433676] cfg80211: Calling CRDA to update world regulatory domain

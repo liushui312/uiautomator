@@ -1,0 +1,205 @@
+<4>[87780.373128] if_tag_stat_update: 134 callbacks suppressed
+<3>[87780.373157] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.382233] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.388783] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.395193] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.415724] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.424612] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.431706] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.438075] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.447240] qtaguid: iface_stat: stat_update() lo not found
+<3>[87780.454488] qtaguid: iface_stat: stat_update() lo not found
+<6>[87781.037321] qtaguid: ctrl_counterset(s 0 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<6>[87782.286593] qtaguid: ctrl_counterset(s 1 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<6>[87785.643746] qtaguid: ctrl_counterset(s 1 10079): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[87786.115341] if_tag_stat_update: 110 callbacks suppressed
+<3>[87786.115358] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.122078] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.128424] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.134739] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.142032] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.148338] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.154810] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.161139] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.161980] qtaguid: iface_stat: stat_update() lo not found
+<3>[87786.162038] qtaguid: iface_stat: stat_update() lo not found
+<6>[87786.358678] qtaguid: ctrl_counterset(s 0 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[87786.759761] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[87786.759780] start_powernow :0!
+<4>[87786.759790] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[87786.762003] axp22_DCDC2: Failed to create debugfs directory
+<4>[87786.762503] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<4>[87788.605946] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[87788.605964] start_powernow :1!
+<4>[87788.606018] axp22_DCDC2: Failed to create debugfs directory
+<4>[87788.606300] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<4>[87791.414520] if_tag_stat_update: 86 callbacks suppressed
+<3>[87791.414537] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.428494] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.435044] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.441324] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.448784] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.455158] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.461493] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.467796] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.469065] qtaguid: iface_stat: stat_update() lo not found
+<3>[87791.469127] qtaguid: iface_stat: stat_update() lo not found
+<4>[87797.864666] if_tag_stat_update: 76 callbacks suppressed
+<3>[87797.864680] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.873711] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.880046] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.886321] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.908022] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.914341] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.931050] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.937367] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.943669] qtaguid: iface_stat: stat_update() lo not found
+<3>[87797.949950] qtaguid: iface_stat: stat_update() lo not found
+<4>[87801.370419] RTL871X: rtw_set_ps_mode(wlan0) Leave 802.11 power save - WIFI-TRAFFIC_BUSY
+<4>[87801.370442] RTL871X: rtl8188e_set_FwPwrMode_cmd: Mode=0 SmartPS=2 UAPSD=0
+<4>[87803.206874] if_tag_stat_update: 48 callbacks suppressed
+<3>[87803.206892] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.216179] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.222894] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.229299] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.240368] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.249484] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.256148] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.262666] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.272902] qtaguid: iface_stat: stat_update() lo not found
+<3>[87803.279493] qtaguid: iface_stat: stat_update() lo not found
+<4>[87805.370549] RTL871X: rtw_set_ps_mode(wlan0) Enter 802.11 power save - WIFI-TRAFFIC_IDLE
+<4>[87805.370572] RTL871X: rtl8188e_set_FwPwrMode_cmd: Mode=1 SmartPS=2 UAPSD=0
+<4>[87807.477862] RTL871X: issue_probereq_ex(wlan0) to a4:93:4c:b1:4a:5f, ch:13, 3/3 in 100 ms
+<4>[87809.459169] if_tag_stat_update: 52 callbacks suppressed
+<3>[87809.459183] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.465923] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.472258] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.478537] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.485488] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.491770] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.499118] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.505777] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.512116] qtaguid: iface_stat: stat_update() lo not found
+<3>[87809.518365] qtaguid: iface_stat: stat_update() lo not found
+<4>[87814.499297] if_tag_stat_update: 48 callbacks suppressed
+<3>[87814.499315] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.505998] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.512365] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.518666] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.527019] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.534229] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.540567] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.546835] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.554335] qtaguid: iface_stat: stat_update() lo not found
+<3>[87814.561233] qtaguid: iface_stat: stat_update() lo not found
+<6>[87816.967610] lowmemorykiller: Killing 'tutu.ABenchMark' (2122), adj 705,
+<6>[87816.967618]    to free 44284kB on behalf of 'AsyncTask #1' (3598) because
+<6>[87816.967622]    cache 88756kB is below limit 89428kB for oom_score_adj 15
+<6>[87816.967626]    Free memory is -1448kB above reserved
+<6>[87817.036318] init: waitpid returned pid 2142, status = 00000000
+<3>[87817.036344] init: untracked pid 2142 exited
+<6>[87817.332481] lowmemorykiller: Killing 'id.defcontainer' (2785), adj 647,
+<6>[87817.332490]    to free 15544kB on behalf of 'ActivityManager' (453) because
+<6>[87817.332494]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.332499]    Free memory is 18976kB above reserved
+<6>[87817.332999] lowmemorykiller: Killing 'Compiler' (2792), adj 647,
+<6>[87817.333005]    to free 15544kB on behalf of 'ActivityManager' (453) because
+<6>[87817.333009]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.333014]    Free memory is 18976kB above reserved
+<6>[87817.510188] lowmemorykiller: Killing 'tdmm2v10jnifree' (3314), adj 588,
+<6>[87817.510194]    to free 30688kB on behalf of 'ActivityManager' (453) because
+<6>[87817.510199]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.510203]    Free memory is 27108kB above reserved
+<6>[87817.514310] lowmemorykiller: Killing 'GC' (3317), adj 588,
+<6>[87817.514315]    to free 30688kB on behalf of 'ActivityManager' (453) because
+<6>[87817.514320]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.514324]    Free memory is 27776kB above reserved
+<6>[87817.572507] healthd: battery l=100 v=4131 t=30.0 h=2 st=5 c=-265 chg=u
+<6>[87817.640309] lowmemorykiller: Killing 'oid.application' (3467), adj 529,
+<6>[87817.640315]    to free 90780kB on behalf of 'ActivityManager' (453) because
+<6>[87817.640319]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.640324]    Free memory is 28576kB above reserved
+<6>[87817.640792] lowmemorykiller: Killing 'Signal Catcher' (3472), adj 529,
+<6>[87817.640797]    to free 90780kB on behalf of 'ActivityManager' (453) because
+<6>[87817.640802]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.640806]    Free memory is 28576kB above reserved
+<6>[87817.710964] lowmemorykiller: Killing 'd.process.acore' (3334), adj 529,
+<6>[87817.710970]    to free 20956kB on behalf of 'ActivityManager' (453) because
+<6>[87817.710975]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.710979]    Free memory is 40256kB above reserved
+<6>[87817.711270] lowmemorykiller: Killing 'GC' (3338), adj 529,
+<6>[87817.711274]    to free 20956kB on behalf of 'ActivityManager' (453) because
+<6>[87817.711279]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.711283]    Free memory is 40256kB above reserved
+<6>[87817.711321] lowmemorykiller: Killing 'Signal Catcher' (3339), adj 529,
+<6>[87817.711325]    to free 20956kB on behalf of 'ActivityManager' (453) because
+<6>[87817.711330]    cache 76360kB is below limit 89428kB for oom_score_adj 15
+<6>[87817.711334]    Free memory is 40256kB above reserved
+<4>[87820.909986] if_tag_stat_update: 54 callbacks suppressed
+<3>[87820.910002] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.916377] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.922738] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.928995] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.935721] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.942056] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.950176] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.956553] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.962932] qtaguid: iface_stat: stat_update() lo not found
+<3>[87820.969259] qtaguid: iface_stat: stat_update() lo not found
+<4>[87827.752487] if_tag_stat_update: 62 callbacks suppressed
+<3>[87827.752531] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.758995] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.765480] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.771897] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.780104] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.786469] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.794215] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.800683] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.807164] qtaguid: iface_stat: stat_update() lo not found
+<3>[87827.813617] qtaguid: iface_stat: stat_update() lo not found
+<4>[87829.509296] RTL871X: issue_probereq_ex(wlan0) to a4:93:4c:b1:4a:5f, ch:13, 3/3 in 130 ms
+<4>[87829.616082] RTL871X: issue_nulldata(wlan0) to a4:93:4c:b1:4a:5f, ch:13, 3/3 in 110 ms
+<4>[87834.410385] if_tag_stat_update: 62 callbacks suppressed
+<3>[87834.410398] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.416670] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.422997] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.429260] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.435619] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.441895] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.449005] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.455314] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.461654] qtaguid: iface_stat: stat_update() lo not found
+<3>[87834.468023] qtaguid: iface_stat: stat_update() lo not found
+<4>[87835.598159] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[87835.598175] start_powernow :0!
+<4>[87835.598185] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[87835.600404] axp22_DCDC2: Failed to create debugfs directory
+<4>[87835.600604] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<4>[87840.743351] if_tag_stat_update: 62 callbacks suppressed
+<3>[87840.743362] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.749645] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.755938] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.762210] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.768506] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.774766] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.781992] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.788218] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.794502] qtaguid: iface_stat: stat_update() lo not found
+<3>[87840.800796] qtaguid: iface_stat: stat_update() lo not found
+<4>[87847.053850] if_tag_stat_update: 62 callbacks suppressed
+<3>[87847.053860] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.060317] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.066583] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.072802] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.079173] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.085417] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.093338] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.099586] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.105965] qtaguid: iface_stat: stat_update() lo not found
+<3>[87847.112226] qtaguid: iface_stat: stat_update() lo not found
+<4>[87849.618077] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[87849.618092] start_powernow :1!
+<4>[87849.618186] axp22_DCDC2: Failed to create debugfs directory
+<4>[87849.618471] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<6>[87851.641083] qtaguid: ctrl_counterset(s 1 10011): insufficient priv from pid=478 tgid=431 uid=1000

@@ -1,0 +1,25 @@
+<6>[87772.562964] qtaguid: ctrl_counterset(s 1 10078): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[87773.063811] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[87773.063831] start_powernow :0!
+<4>[87773.063842] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[87773.066049] axp22_DCDC2: Failed to create debugfs directory
+<4>[87773.066648] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<4>[87774.691640] if_tag_stat_update: 144 callbacks suppressed
+<3>[87774.691653] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.700953] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.707339] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.713632] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.738515] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.758092] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.764457] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.770809] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.771932] qtaguid: iface_stat: stat_update() lo not found
+<3>[87774.771987] qtaguid: iface_stat: stat_update() lo not found
+<6>[87774.922599] qtaguid: ctrl_counterset(s 0 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[87776.641930] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[87776.641959] start_powernow :1!
+<4>[87776.642046] axp22_DCDC2: Failed to create debugfs directory
+<4>[87776.642346] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<6>[87777.160765] qtaguid: ctrl_counterset(s 1 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[87777.598261] RTL871X: issue_nulldata(wlan0) to a4:93:4c:b1:4a:5f, ch:13, 3/3 in 130 ms
+<6>[87778.076896] qtaguid: ctrl_counterset(s 0 10078): insufficient priv from pid=478 tgid=431 uid=1000

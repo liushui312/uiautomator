@@ -1,0 +1,17 @@
+<6>[   97.014966] init: waitpid returned pid 1471, status = 00000001
+<3>[   97.014990] init: untracked pid 1471 exited
+<4>[   97.067009] RTL871X: auth success, start assoc
+<4>[   97.078791] RTL871X: assoc success
+<4>[   97.155146] RTL871X: send eapol packet
+<4>[   97.175159] RTL871X: send eapol packet
+<4>[   97.179032] RTL871X: set pairwise key to hw: alg:4(WEP40-1 WEP104-5 TKIP-2 AES-4) camid:4
+<4>[   97.179055] RTL871X: set group key to hw: alg:4(WEP40-1 WEP104-5 TKIP-2 AES-4) keyid:1
+<5>[   97.403683] init: starting 'dhcpcd_wlan0'
+<6>[   97.457760] init: waitpid returned pid 1639, status = 00000001
+<3>[   97.457782] init: untracked pid 1639 exited
+<4>[   79.340876] CPU1: Booted secondary processor
+<6>[   98.814899] init: waitpid returned pid 1666, status = 00000001
+<3>[   98.814923] init: untracked pid 1666 exited
+<5>[  100.491541] CPU1: shutdown
+<6>[  100.491570] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[  100.492611] [hotplug]: cpu1 is killed! .

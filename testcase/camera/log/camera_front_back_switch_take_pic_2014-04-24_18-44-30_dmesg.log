@@ -1,0 +1,5 @@
+<6>[   90.861482] init: waitpid returned pid 1604, status = 00000001
+<3>[   90.861504] init: untracked pid 1604 exited
+<6>[   94.700361] init: waitpid returned pid 1558, status = 00000100
+<5>[   94.700387] init: process 'dhcpcd_wlan0', pid 1558 exited
+<6>[   95.511723] cfg80211: Calling CRDA to update world regulatory domain

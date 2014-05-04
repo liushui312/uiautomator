@@ -1,0 +1,4 @@
+<4>[  165.700871] CPU1: Booted secondary processor
+<5>[  189.152788] CPU1: shutdown
+<6>[  189.152803] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[  189.153878] [hotplug]: cpu1 is killed! .

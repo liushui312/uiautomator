@@ -33,7 +33,6 @@ def runtest(serialno, loop):
     else:
         from uiautomator import device as d
 
-    print d.info
     print "总共 %d 次循环" %loop
 
     for i in range(1, loop+1):
@@ -64,8 +63,7 @@ def runtest(serialno, loop):
         d.press.home()
         i += 1
     
-    print "back camera take picture test success!"
-
+    print "***** test end ********"
 
 def main():
     from optparse import OptionParser

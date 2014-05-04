@@ -1,0 +1,25 @@
+<3>[59572.140576] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.146843] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.153133] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.159323] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.165554] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.274133] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.281718] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.288009] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.294258] qtaguid: iface_stat: stat_update() lo not found
+<3>[59572.300489] qtaguid: iface_stat: stat_update() lo not found
+<4>[59518.560841] CPU1: Booted secondary processor
+<5>[59575.961414] CPU1: shutdown
+<6>[59575.961436] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[59575.962486] [hotplug]: cpu1 is killed! .
+<4>[59586.415170] if_tag_stat_update: 186 callbacks suppressed
+<3>[59586.415187] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.421833] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.428157] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.434418] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.441546] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.447814] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.454086] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.460316] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.468088] qtaguid: iface_stat: stat_update() lo not found
+<3>[59586.474845] qtaguid: iface_stat: stat_update() lo not found

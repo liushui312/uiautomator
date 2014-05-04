@@ -1,0 +1,6 @@
+<4>[   67.510813] CPU1: Booted secondary processor
+<6>[   78.065346] init: waitpid returned pid 1554, status = 00000001
+<3>[   78.065374] init: untracked pid 1554 exited
+<5>[   79.331581] CPU1: shutdown
+<6>[   79.331609] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[   79.332651] [hotplug]: cpu1 is killed! .

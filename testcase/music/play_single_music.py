@@ -24,7 +24,6 @@ def runtest(serialno, loop, musicname):
     else:
         from uiautomator import device as d
 
-    print d.info
     print "总共 %d 次循环" %loop
 
     for i in range(1, loop+1):
@@ -49,7 +48,7 @@ def runtest(serialno, loop, musicname):
         d.press.home()
         i += 1
     
-    print "test success!"
+    print "***** test end ********"
 
 
 def main():

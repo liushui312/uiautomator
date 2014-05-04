@@ -1,0 +1,55 @@
+<5>[59729.473289] [VFE]vfe_close
+<4>[59729.473314] [CSI][GC2035]disalbe oe!
+<5>[59729.484732] [VFE]mclk off
+<3>[59729.484773] [VFE_ERR]vfe dphy clock is null
+<5>[59729.489435] [VFE]vfe_close end
+<6>[59729.593713] qtaguid: ctrl_counterset(s 1 10012): insufficient priv from pid=501 tgid=452 uid=1000
+<6>[59730.237747] qtaguid: ctrl_counterset(s 0 10027): insufficient priv from pid=501 tgid=452 uid=1000
+<6>[59731.328961] qtaguid: ctrl_counterset(s 1 10027): insufficient priv from pid=501 tgid=452 uid=1000
+<5>[59731.396236] [VFE]vfe_open
+<3>[59731.396256] [VFE_ERR]vfe dphy clock is null
+<3>[59731.401152] [VFE_ERR]vfe dphy clock is null
+<5>[59731.405874] [VFE]vfe_open ok
+<4>[59731.406113] NOT_SUPPORT_THIS_FUNCTION:sun8iw3p1_isp_set_table_addr, line: 363
+<5>[59731.430099] [VFE]mclk on
+<4>[59731.442182] [CSI][GC2035]enable oe!
+<4>[59731.442903] [CSI][GC2035]V4L2_IDENT_SENSOR=2035
+<5>[59732.160098] [VFE]buffer_setup, buffer count=7, size=720000
+<4>[59732.168444] [Read_single_page] NFC_ReadRetry 3 cycles, ch =0, chip = 0
+<4>[59732.168469] [Read_single_page]	block = 2035, page = 8, RetryCount = 3  
+<5>[59732.278150] [VFE]capture video mode!
+<5>[59732.359456] [VFE]capture video first frame done!
+<6>[59732.428147] qtaguid: ctrl_counterset(s 0 10012): insufficient priv from pid=501 tgid=452 uid=1000
+<4>[59733.260193] set retry default value:  34 4a 63 ad 46 4a 63 ad
+<5>[59735.552314] CPU1: shutdown
+<6>[59735.552334] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[59735.553395] [hotplug]: cpu1 is killed! .
+<4>[59736.265727] if_tag_stat_update: 110 callbacks suppressed
+<3>[59736.265744] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.276059] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.282446] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.288725] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.300335] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.306699] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.312988] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.319227] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.326924] qtaguid: iface_stat: stat_update() lo not found
+<3>[59736.336869] qtaguid: iface_stat: stat_update() lo not found
+<5>[59739.911438] [VFE]buffer_setup, buffer count=7, size=720000
+<4>[59735.560808] CPU1: Booted secondary processor
+<5>[59740.000506] [VFE]capture video mode!
+<5>[59740.081792] [VFE]capture video first frame done!
+<5>[59741.551654] CPU1: shutdown
+<6>[59741.551676] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[59741.552725] [hotplug]: cpu1 is killed! .
+<4>[59750.676123] if_tag_stat_update: 86 callbacks suppressed
+<3>[59750.676140] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.684387] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.690779] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.697001] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.704194] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.711173] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.717440] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.723709] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.731065] qtaguid: iface_stat: stat_update() lo not found
+<3>[59750.737322] qtaguid: iface_stat: stat_update() lo not found

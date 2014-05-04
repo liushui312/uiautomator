@@ -1,0 +1,19 @@
+<4>[59575.970828] CPU1: Booted secondary processor
+<4>[59587.361040] PHY_PageRead: ecc limit, 0xa, 0x0, 0x0, 0x0
+<4>[59587.361062] bank 0 block 0x7f5,page 0x58 
+<4>[59587.361069] secbitmap low: 0xffffffff, high 0x0 
+<5>[59588.791396] CPU1: shutdown
+<6>[59588.791418] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[59588.792468] [hotplug]: cpu1 is killed! .
+<4>[59593.465963] [Read_single_page] NFC_ReadRetry 3 cycles, ch =0, chip = 0
+<4>[59593.465981] [Read_single_page]	block = 2037, page = 108, RetryCount = 3  
+<4>[59593.466067] set retry default value:  34 4a 63 ad 46 4a 63 ad
+<4>[59598.008382] if_tag_stat_update: 62 callbacks suppressed
+<3>[59598.008400] qtaguid: iface_stat: stat_update() lo not found
+<3>[59598.015071] qtaguid: iface_stat: stat_update() lo not found
+<3>[59598.035977] binder: 958: binder_alloc_buf failed to map pages in userspace, no vma
+<6>[59598.049835] binder: 637:637 transaction failed 29201, size 13416-0
+<3>[59598.050617] qtaguid: iface_stat: stat_update() lo not found
+<3>[59598.059364] qtaguid: iface_stat: stat_update() lo not found
+<3>[59598.065733] qtaguid: iface_stat: stat_update() lo not found
+<3>[59598.072030] qtaguid: iface_stat: stat_update() lo not found

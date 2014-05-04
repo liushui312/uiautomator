@@ -1,0 +1,15 @@
+<4>[   64.239435] RTL871X: rtw_set_802_11_connect(wlan0)  fw_state=0x00000008
+<6>[   64.309259] init: waitpid returned pid 1463, status = 00000001
+<3>[   64.309288] init: untracked pid 1463 exited
+<4>[   64.350873] RTL871X: start auth
+<4>[   64.363642] RTL871X: auth success, start assoc
+<4>[   64.369987] RTL871X: assoc success
+<4>[   64.379103] RTL871X: send eapol packet
+<4>[   64.399827] RTL871X: send eapol packet
+<4>[   64.401781] RTL871X: set pairwise key to hw: alg:4(WEP40-1 WEP104-5 TKIP-2 AES-4) camid:4
+<4>[   64.401806] RTL871X: set group key to hw: alg:4(WEP40-1 WEP104-5 TKIP-2 AES-4) keyid:2
+<4>[   64.450563] RTL871X: rtw_aes_decrypt(wlan0) gkey installed. no_gkey_bc_cnt:5, no_gkey_mc_cnt:0
+<5>[   64.620941] init: starting 'dhcpcd_wlan0'
+<5>[   67.501718] CPU1: shutdown
+<6>[   67.501755] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[   67.502798] [hotplug]: cpu1 is killed! .

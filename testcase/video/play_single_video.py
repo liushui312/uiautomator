@@ -31,7 +31,6 @@ def runtest(serialno, loop, videoname):
     else:
         from uiautomator import device as d
 
-    print d.info
     print "总共 %d 次循环" %loop
 
     for i in range(1, loop+1):
@@ -44,7 +43,6 @@ def runtest(serialno, loop, videoname):
         time.sleep(0.5)
         d(text="sdcard").click()
         d(text="Movies").click()
-        print "liushui: %s"%videoname
         d(text=videoname).click()
         for i in range(1,20):
             x = random.randint(100, 600)
@@ -54,8 +52,8 @@ def runtest(serialno, loop, videoname):
         d.press.back()
         d.press.home()
         i += 1
-    
-    print "test success!"
+
+    print "***** test end ********"
 
 
 def main():

@@ -1,0 +1,21 @@
+<4>[87222.250852] CPU1: Booted secondary processor
+<5>[87236.171437] CPU1: shutdown
+<6>[87236.171459] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[87236.172512] [hotplug]: cpu1 is killed! .
+<4>[87236.180844] CPU1: Booted secondary processor
+<5>[87245.441395] CPU1: shutdown
+<6>[87245.441418] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[87245.442470] [hotplug]: cpu1 is killed! .
+<4>[87245.505002] RTL871X: issue_probereq_ex(wlan0) to a4:93:4c:b1:4a:5f, ch:13, 3/3 in 130 ms
+<4>[87245.669444] RTL871X: issue_nulldata(wlan0) to a4:93:4c:b1:4a:5f, ch:13, 3/3 in 160 ms
+<4>[87245.701492] if_tag_stat_update: 62 callbacks suppressed
+<3>[87245.701508] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.707835] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.714157] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.720412] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.731330] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.737825] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.744118] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.750364] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.757705] qtaguid: iface_stat: stat_update() lo not found
+<3>[87245.764986] qtaguid: iface_stat: stat_update() lo not found

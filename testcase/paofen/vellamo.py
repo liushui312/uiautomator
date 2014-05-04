@@ -7,6 +7,10 @@ import time
 import getopt
 import string
 import random
+import datetime
+
+now = datetime.datetime.now()
+ISOFORMAT='%Y_%m_%d_%H_%M_%S' #设置输出格式
 
 def removeRecentList(d, app_desc):
     d.press.home()
@@ -19,13 +23,15 @@ def removeRecentList(d, app_desc):
 
 
 def runtest(serialno, loop):
+    print "liu: in runtest"
     if serialno:
+        print "liu: in serialno"
         from uiautomator import Device
         d = Device(serialno)
     else:
+        print "liu: in else"
         from uiautomator import device as d
 
-    print d.info
     print "总共 %d 次循环" %loop
     d.watcher("Vellamo out of memory").when(text="Vellamo Out of Memory").click(text="ok")
     for i in range(1, loop+1):
@@ -53,12 +59,13 @@ def runtest(serialno, loop):
         while not d(text="Your device's score!").exists:
             time.sleep(2)
         else:
-            d.screenshot("vellamo_%d.png"%i)
+            d.screenshot("%s/screenshot/%d_vellamo_%s.png"\
+                    %(sys.path[0], i, now.strftime(ISOFORMAT)))
 
         d.press.home()
         i += 1
-    
-    print "test success!"
+
+    print "***** test end ********"
 
 
 def main():
@@ -69,7 +76,7 @@ def main():
     parser.add_option("-s", dest="serialno", 
             help="the device serialno")
     (options, args) = parser.parse_args()
-
+    print "liu: before runtest"
     runtest(options.serialno, string.atoi(options.loop))
 
 

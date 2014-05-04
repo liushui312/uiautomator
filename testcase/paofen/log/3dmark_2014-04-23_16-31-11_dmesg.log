@@ -1,0 +1,22 @@
+<4>[26281.010500] RTL871X: rtw_set_ps_mode(wlan0) Leave 802.11 power save - WIFI-TRAFFIC_BUSY
+<4>[26281.010526] RTL871X: rtl8188e_set_FwPwrMode_cmd: Mode=0 SmartPS=2 UAPSD=0
+<4>[26283.010506] RTL871X: rtw_set_ps_mode(wlan0) Enter 802.11 power save - WIFI-TRAFFIC_IDLE
+<4>[26283.010531] RTL871X: rtl8188e_set_FwPwrMode_cmd: Mode=1 SmartPS=2 UAPSD=0
+<5>[26284.053119] CPU1: shutdown
+<6>[26284.053148] [hotplug]: cpu(0) try to kill cpu(1)
+<6>[26284.054187] [hotplug]: cpu1 is killed! .
+<4>[26284.062525] CPU1: Booted secondary processor
+<6>[26292.527405] healthd: battery l=100 v=4147 t=30.0 h=2 st=5 c=-325 chg=u
+<4>[26293.010503] RTL871X: rtw_set_ps_mode(wlan0) Leave 802.11 power save - WIFI-TRAFFIC_BUSY
+<4>[26293.010528] RTL871X: rtl8188e_set_FwPwrMode_cmd: Mode=0 SmartPS=2 UAPSD=0
+<4>[26293.829355] if_tag_stat_update: 62 callbacks suppressed
+<3>[26293.829372] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.835694] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.841995] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.848222] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.854706] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.860975] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.867207] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.873450] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.874367] qtaguid: iface_stat: stat_update() lo not found
+<3>[26293.874422] qtaguid: iface_stat: stat_update() lo not found

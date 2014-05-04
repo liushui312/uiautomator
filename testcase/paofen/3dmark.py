@@ -7,6 +7,10 @@ import time
 import getopt
 import string
 import random
+import datetime
+
+now = datetime.datetime.now()
+ISOFORMAT='%Y_%m_%d_%H_%M_%S' #设置输出格式
 
 def removeRecentList(d, app_desc):
     d.press.home()
@@ -25,7 +29,6 @@ def runtest(serialno, loop):
     else:
         from uiautomator import device as d
 
-    print d.info
     print "总共 %d 次循环" %loop
 
     for i in range(1, loop+1):
@@ -39,8 +42,8 @@ def runtest(serialno, loop):
         d.click(600,460)
         d.press.home()
         i += 1
-    
-    print "test success!"
+
+    print "***** test end ********"
 
 
 def main():

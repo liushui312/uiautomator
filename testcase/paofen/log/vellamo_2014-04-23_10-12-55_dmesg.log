@@ -1,0 +1,349 @@
+<4>[ 3692.198544] if_tag_stat_update: 134 callbacks suppressed
+<3>[ 3692.198560] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.210640] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.216985] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.223262] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.230279] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.236567] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.243166] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.249477] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.250374] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3692.250430] qtaguid: iface_stat: stat_update() lo not found
+<6>[ 3693.036546] qtaguid: ctrl_counterset(s 0 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<6>[ 3694.063582] qtaguid: ctrl_counterset(s 1 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<6>[ 3696.643880] qtaguid: ctrl_counterset(s 1 10079): insufficient priv from pid=478 tgid=431 uid=1000
+<6>[ 3697.248694] qtaguid: ctrl_counterset(s 0 10011): insufficient priv from pid=478 tgid=431 uid=1000
+<4>[ 3697.461689] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[ 3697.461707] start_powernow :0!
+<4>[ 3697.461716] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[ 3697.461769] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 3697.463494] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<4>[ 3697.998631] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[ 3697.998650] start_powernow :1!
+<4>[ 3697.998701] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 3697.998983] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<4>[ 3699.108153] if_tag_stat_update: 124 callbacks suppressed
+<3>[ 3699.108170] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.116915] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.123323] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.129648] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.136155] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.142519] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.151992] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.158424] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.164926] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3699.171275] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3705.148274] if_tag_stat_update: 96 callbacks suppressed
+<3>[ 3705.148290] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.160180] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.166499] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.172749] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.190401] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.196659] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.202915] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.209163] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.211384] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3705.211459] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3711.560587] if_tag_stat_update: 76 callbacks suppressed
+<3>[ 3711.560601] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.566887] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.573168] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.579422] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.585798] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.592056] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.599902] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.606199] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.612505] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3711.618716] qtaguid: iface_stat: stat_update() lo not found
+<6>[ 3715.557817] lowmemorykiller: Killing 'd.process.acore' (9148), adj 1000,
+<6>[ 3715.557824]    to free 23556kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.557829]    cache 86532kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.557833]    Free memory is 19984kB above reserved
+<6>[ 3715.577796] lowmemorykiller: Killing 'droid.gallery3d' (9127), adj 1000,
+<6>[ 3715.577804]    to free 21636kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.577809]    cache 86684kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.577813]    Free memory is 23828kB above reserved
+<6>[ 3715.578116] lowmemorykiller: Killing 'Signal Catcher' (9132), adj 1000,
+<6>[ 3715.578121]    to free 21636kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.578125]    cache 86684kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.578130]    Free memory is 23828kB above reserved
+<6>[ 3715.688470] binder: undelivered transaction 282014
+<6>[ 3715.688980] lowmemorykiller: Killing 'droid.deskclock' (9087), adj 1000,
+<6>[ 3715.688987]    to free 20872kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.688991]    cache 87292kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.688995]    Free memory is 27660kB above reserved
+<6>[ 3715.770513] lowmemorykiller: Killing 'id.defcontainer' (8815), adj 1000,
+<6>[ 3715.770520]    to free 17800kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.770525]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.770529]    Free memory is 28608kB above reserved
+<6>[ 3715.772348] lowmemorykiller: Killing 'GC' (8818), adj 1000,
+<6>[ 3715.772354]    to free 17800kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.772359]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.772363]    Free memory is 28608kB above reserved
+<6>[ 3715.772417] lowmemorykiller: Killing 'Signal Catcher' (8819), adj 1000,
+<6>[ 3715.772421]    to free 17800kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.772426]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.772430]    Free memory is 28608kB above reserved
+<6>[ 3715.772469] lowmemorykiller: Killing 'Compiler' (8823), adj 1000,
+<6>[ 3715.772474]    to free 17800kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.772478]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.772482]    Free memory is 28608kB above reserved
+<6>[ 3715.900337] lowmemorykiller: Killing 'ndroid.calendar' (9438), adj 764,
+<6>[ 3715.900343]    to free 19700kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.900347]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.900352]    Free memory is 30332kB above reserved
+<6>[ 3715.906339] lowmemorykiller: Killing 'GC' (9440), adj 764,
+<6>[ 3715.906345]    to free 19700kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.906350]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.906354]    Free memory is 31688kB above reserved
+<6>[ 3715.906410] lowmemorykiller: Killing 'Signal Catcher' (9441), adj 764,
+<6>[ 3715.906415]    to free 19700kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.906419]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.906424]    Free memory is 31688kB above reserved
+<6>[ 3715.906468] lowmemorykiller: Killing 'JDWP' (9442), adj 764,
+<6>[ 3715.906472]    to free 19700kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.906476]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.906480]    Free memory is 31688kB above reserved
+<6>[ 3715.906521] lowmemorykiller: Killing 'Compiler' (9443), adj 764,
+<6>[ 3715.906525]    to free 19700kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.906529]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.906534]    Free memory is 31688kB above reserved
+<6>[ 3715.906571] lowmemorykiller: Killing 'ReferenceQueueD' (9446), adj 764,
+<6>[ 3715.906576]    to free 19700kB on behalf of 'ActivityManager' (453) because
+<6>[ 3715.906580]    cache 88204kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3715.906584]    Free memory is 31688kB above reserved
+<6>[ 3716.010273] lowmemorykiller: Killing 'equicksearchbox' (9454), adj 1000,
+<6>[ 3716.010279]    to free 21264kB on behalf of 'ActivityManager' (453) because
+<6>[ 3716.010284]    cache 89056kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3716.010288]    Free memory is 31468kB above reserved
+<6>[ 3716.010670] lowmemorykiller: Killing 'JDWP' (9460), adj 1000,
+<6>[ 3716.010675]    to free 21264kB on behalf of 'ActivityManager' (453) because
+<6>[ 3716.010679]    cache 89056kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3716.010683]    Free memory is 31468kB above reserved
+<6>[ 3716.037803] lowmemorykiller: Killing 'Compiler' (9461), adj 1000,
+<6>[ 3716.037809]    to free 21264kB on behalf of 'ActivityManager' (453) because
+<6>[ 3716.037813]    cache 89284kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3716.037817]    Free memory is 31088kB above reserved
+<4>[ 3716.910194] if_tag_stat_update: 38 callbacks suppressed
+<3>[ 3716.910208] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.916504] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.922793] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.929036] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.946737] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.953075] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.964956] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.971628] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.978057] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3716.984403] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3723.310379] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3723.310393] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.316661] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.322949] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.329196] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.335527] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.341770] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.348801] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.355695] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.362085] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3723.368349] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3725.018227] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[ 3725.018255] start_powernow :0!
+<4>[ 3725.018271] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[ 3725.020540] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 3725.021105] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<6>[ 3726.314679] healthd: battery l=98 v=4099 t=30.0 h=2 st=2 c=-265 chg=u
+<6>[ 3729.455805] lowmemorykiller: Killing 'android.vending' (9468), adj 1000,
+<6>[ 3729.455813]    to free 25296kB on behalf of 'kswapd0' (25) because
+<6>[ 3729.455817]    cache 88816kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3729.455820]    Free memory is -1468kB above reserved
+<6>[ 3729.491820] lowmemorykiller: Killing 'android.browser' (9420), adj 1000,
+<6>[ 3729.491826]    to free 18468kB on behalf of 'AsyncTask #1' (9408) because
+<6>[ 3729.491830]    cache 87296kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3729.491833]    Free memory is -1292kB above reserved
+<6>[ 3729.531432] lowmemorykiller: Killing 'marvin.talkback' (9515), adj 1000,
+<6>[ 3729.531438]    to free 17236kB on behalf of 'AsyncTask #1' (9408) because
+<6>[ 3729.531441]    cache 85548kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3729.531445]    Free memory is -1584kB above reserved
+<4>[ 3729.701099] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3729.701115] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.707426] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.713789] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.720083] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.726486] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.732801] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.743832] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.750143] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.756537] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3729.762890] qtaguid: iface_stat: stat_update() lo not found
+<6>[ 3730.571257] lowmemorykiller: Killing 'ogle.android.gm' (9532), adj 1000,
+<6>[ 3730.571264]    to free 24964kB on behalf of 'kswapd0' (25) because
+<6>[ 3730.571267]    cache 84160kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3730.571271]    Free memory is -616kB above reserved
+<6>[ 3731.291846] lowmemorykiller: Killing 'gle.android.gms' (9567), adj 1000,
+<6>[ 3731.291854]    to free 24008kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.291858]    cache 70480kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.291861]    Free memory is 17548kB above reserved
+<6>[ 3731.292333] lowmemorykiller: Killing 'edstoragebackup' (9595), adj 1000,
+<6>[ 3731.292338]    to free 15744kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.292342]    cache 70480kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.292345]    Free memory is 17548kB above reserved
+<6>[ 3731.300175] lowmemorykiller: Killing 'd.process.media' (9502), adj 764,
+<6>[ 3731.300184]    to free 20204kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.300187]    cache 70480kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.300190]    Free memory is 19408kB above reserved
+<6>[ 3731.378629] lowmemorykiller: Killing 'GC' (9505), adj 764,
+<6>[ 3731.378636]    to free 20204kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.378641]    cache 70632kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.378644]    Free memory is 20504kB above reserved
+<6>[ 3731.406743] lowmemorykiller: Killing 'putmethod.latin' (9614), adj 647,
+<6>[ 3731.406750]    to free 16972kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.406753]    cache 70708kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.406757]    Free memory is 20504kB above reserved
+<6>[ 3731.430421] lowmemorykiller: Killing 'tdmm2v10jnifree' (9114), adj 588,
+<6>[ 3731.430426]    to free 31252kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.430429]    cache 70936kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.430433]    Free memory is 21544kB above reserved
+<6>[ 3731.430705] lowmemorykiller: Killing 'Compiler' (9121), adj 588,
+<6>[ 3731.430709]    to free 31252kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.430713]    cache 70936kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.430716]    Free memory is 21544kB above reserved
+<6>[ 3731.430939] lowmemorykiller: Killing 'ReferenceQueueD' (9122), adj 588,
+<6>[ 3731.430943]    to free 31252kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.430946]    cache 70936kB is below limit 72456kB for oom_score_adj 9
+<6>[ 3731.430950]    Free memory is 21544kB above reserved
+<6>[ 3731.471123] binder: undelivered transaction 284781
+<6>[ 3731.560224] lowmemorykiller: Killing 'oid.application' (9277), adj 529,
+<6>[ 3731.560230]    to free 80868kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.560234]    cache 72456kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.560237]    Free memory is 23956kB above reserved
+<6>[ 3731.560835] lowmemorykiller: Killing 'GC' (9281), adj 529,
+<6>[ 3731.560839]    to free 80868kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.560842]    cache 72456kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.560846]    Free memory is 23956kB above reserved
+<6>[ 3731.630848] lowmemorykiller: Killing 'tutu.ABenchMark' (8685), adj 529,
+<6>[ 3731.630853]    to free 38760kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.630857]    cache 73292kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.630860]    Free memory is 35340kB above reserved
+<6>[ 3731.631185] lowmemorykiller: Killing 'GC' (8687), adj 529,
+<6>[ 3731.631189]    to free 38760kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.631192]    cache 73292kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.631196]    Free memory is 35340kB above reserved
+<6>[ 3731.650613] lowmemorykiller: Killing 'AsyncTask #2' (8882), adj 529,
+<6>[ 3731.650618]    to free 38760kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.650621]    cache 73520kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.650625]    Free memory is 37852kB above reserved
+<6>[ 3731.680197] lowmemorykiller: Killing 'ice:baseservice' (8629), adj 470,
+<6>[ 3731.680203]    to free 16144kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.680206]    cache 73672kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.680210]    Free memory is 47664kB above reserved
+<6>[ 3731.680812] lowmemorykiller: Killing 'GC' (8632), adj 470,
+<6>[ 3731.680817]    to free 16144kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.680821]    cache 73824kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.680824]    Free memory is 56376kB above reserved
+<6>[ 3731.835281] lowmemorykiller: Killing 'ndroid.launcher' (8770), adj 352,
+<6>[ 3731.835287]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.835290]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.835294]    Free memory is 88160kB above reserved
+<6>[ 3731.836356] lowmemorykiller: Killing 'GC' (8772), adj 352,
+<6>[ 3731.836360]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836364]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836367]    Free memory is 88160kB above reserved
+<6>[ 3731.836405] lowmemorykiller: Killing 'Signal Catcher' (8774), adj 352,
+<6>[ 3731.836409]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836412]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836416]    Free memory is 88160kB above reserved
+<6>[ 3731.836447] lowmemorykiller: Killing 'JDWP' (8776), adj 352,
+<6>[ 3731.836450]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836454]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836457]    Free memory is 88160kB above reserved
+<6>[ 3731.836484] lowmemorykiller: Killing 'ReferenceQueueD' (8778), adj 352,
+<6>[ 3731.836488]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836491]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836495]    Free memory is 88160kB above reserved
+<6>[ 3731.836526] lowmemorykiller: Killing 'FinalizerDaemon' (8779), adj 352,
+<6>[ 3731.836529]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836533]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836536]    Free memory is 88160kB above reserved
+<6>[ 3731.836566] lowmemorykiller: Killing 'launcher-loader' (8788), adj 352,
+<6>[ 3731.836570]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836573]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836576]    Free memory is 88160kB above reserved
+<6>[ 3731.836605] lowmemorykiller: Killing 'AsyncTask #1' (8790), adj 352,
+<6>[ 3731.836609]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836612]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836616]    Free memory is 88160kB above reserved
+<6>[ 3731.836705] lowmemorykiller: Killing 'AsyncTask #2' (9110), adj 352,
+<6>[ 3731.836709]    to free 33732kB on behalf of 'ActivityManager' (453) because
+<6>[ 3731.836712]    cache 74812kB is below limit 89428kB for oom_score_adj 15
+<6>[ 3731.836716]    Free memory is 88160kB above reserved
+<6>[ 3731.975360] init: waitpid returned pid 8727, status = 00000000
+<3>[ 3731.975391] init: untracked pid 8727 exited
+<4>[ 3733.998743] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[ 3733.998758] start_powernow :1!
+<4>[ 3733.998806] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 3733.999085] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<4>[ 3736.237982] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3736.237996] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.244604] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.251154] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.257540] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.264178] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.270630] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.280001] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.286658] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.293291] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3736.299659] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3742.820535] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3742.820565] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.826956] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.833588] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.839980] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.846885] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.853426] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.870766] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.877132] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.883775] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3742.890130] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3748.993280] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=0, extremity
+<7>[ 3748.993297] start_powernow :0!
+<4>[ 3748.993307] start_powernow, 1384 : max=1536000, policy_add=da9913c0
+<4>[ 3748.995488] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 3748.995972] mali_dvfs_change_status(656): get gpu pll rate 600000000!
+<4>[ 3749.620624] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3749.620637] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.626900] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.633196] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.639418] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.645712] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.651951] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.659036] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.665510] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.671821] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3749.678083] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3755.928883] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3755.928896] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.935167] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.941461] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.947710] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.954059] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.960315] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.967883] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.974243] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.980618] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3755.986873] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3762.241076] if_tag_stat_update: 62 callbacks suppressed
+<3>[ 3762.241095] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.247784] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.254192] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.260514] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.274685] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.281358] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.292029] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.298409] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.304866] qtaguid: iface_stat: stat_update() lo not found
+<3>[ 3762.311244] qtaguid: iface_stat: stat_update() lo not found
+<4>[ 3764.027922] [cpufreq_fantasys] enter powernow_notifier_call 1436, mode=1, performance
+<7>[ 3764.027939] start_powernow :1!
+<4>[ 3764.027988] axp22_DCDC2: Failed to create debugfs directory
+<4>[ 3764.028271] mali_dvfs_change_status(675): get gpu pll rate 408000000!
+<6>[ 3765.500457] qtaguid: ctrl_counterset(s 1 10011): insufficient priv from pid=478 tgid=431 uid=1000
